@@ -1,0 +1,31 @@
+C:\Users\Martin Belej\source\repos\C#\Room light\Room light\bin\Debug\Room light.exe.config
+C:\Users\Martin Belej\source\repos\C#\Room light\Room light\bin\Debug\Room light.exe
+C:\Users\Martin Belej\source\repos\C#\Room light\Room light\bin\Debug\Room light.pdb
+C:\Users\Martin Belej\source\repos\C#\Room light\Room light\obj\Debug\Room light.csproj.AssemblyReference.cache
+C:\Users\Martin Belej\source\repos\C#\Room light\Room light\obj\Debug\Room light.csproj.SuggestedBindingRedirects.cache
+C:\Users\Martin Belej\source\repos\C#\Room light\Room light\obj\Debug\Room_light.Properties.Resources.resources
+C:\Users\Martin Belej\source\repos\C#\Room light\Room light\obj\Debug\Room light.csproj.GenerateResource.cache
+C:\Users\Martin Belej\source\repos\C#\Room light\Room light\obj\Debug\Room light.csproj.CoreCompileInputs.cache
+C:\Users\Martin Belej\source\repos\C#\Room light\Room light\obj\Debug\Room light.csproj.CopyComplete
+C:\Users\Martin Belej\source\repos\C#\Room light\Room light\obj\Debug\Room light.exe
+C:\Users\Martin Belej\source\repos\C#\Room light\Room light\obj\Debug\Room light.pdb
+C:\Users\Martin Belej\source\repos\C#\Room light\Room light\obj\Debug\Room_light.MainWindow.resources
+C:\Users\Martin Belej\source\repos\C#\Room light\Room light\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Martin Belej\source\repos\C#\Room light\Room light\bin\Debug\System.Buffers.dll
+C:\Users\Martin Belej\source\repos\C#\Room light\Room light\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Martin Belej\source\repos\C#\Room light\Room light\bin\Debug\System.Memory.dll
+C:\Users\Martin Belej\source\repos\C#\Room light\Room light\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Martin Belej\source\repos\C#\Room light\Room light\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Martin Belej\source\repos\C#\Room light\Room light\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Martin Belej\source\repos\C#\Room light\Room light\bin\Debug\System.Buffers.xml
+C:\Users\Martin Belej\source\repos\C#\Room light\Room light\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Martin Belej\source\repos\C#\Room light\Room light\bin\Debug\System.Memory.xml
+C:\Users\Martin Belej\source\repos\C#\Room light\Room light\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Martin Belej\source\repos\C#\Room light\Room light\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Martin Belej\source\repos\C#\Room light\Room light\bin\Debug\Room light.exe.manifest
+C:\Users\Martin Belej\source\repos\C#\Room light\Room light\bin\Debug\Room light.application
+C:\Users\Martin Belej\source\repos\C#\Room light\Room light\obj\Debug\Room light.exe.manifest
+C:\Users\Martin Belej\source\repos\C#\Room light\Room light\obj\Debug\Room light.application
+C:\Users\Martin Belej\source\repos\C#\Room light\Room light\bin\Debug\icon.ico
+C:\Users\Martin Belej\source\repos\C#\Room light\Room light\obj\Debug\Room_light.Settings.resources
+C:\Users\Martin Belej\source\repos\C#\Room light\Room light\obj\Debug\Room_light.Login.resources
