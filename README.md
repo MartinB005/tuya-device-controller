@@ -5,7 +5,7 @@ A lightweight Windows taskbar application designed to interact with and control 
 
 ---
 
-## 🚀 Features
+## Features
 
 * **Device Discovery:** Detect or configure Tuya devices active connected with your account
 * **Status Monitoring:** Real-time tracking of device states and attributes.
